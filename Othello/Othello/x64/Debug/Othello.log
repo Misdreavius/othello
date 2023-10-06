@@ -1,0 +1,5 @@
+﻿  Othello.cpp
+C:\Users\adity\OneDrive\Desktop\Othello\Othello\Othello.cpp(21,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\adity\OneDrive\Desktop\Othello\Othello\Othello.cpp(215,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\adity\OneDrive\Desktop\Othello\Othello\Othello.cpp(238,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Othello.vcxproj -> C:\Users\adity\OneDrive\Desktop\Othello\x64\Debug\Othello.exe
